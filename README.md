@@ -2,8 +2,11 @@
 
 ![Screenshot 2022-03-08 at 20-06-56 Performance Lite • demo](https://user-images.githubusercontent.com/26626066/157309721-00034ec7-01cf-4bd6-b7e7-d449800e84e8.png)
 
+# Requirements
+    PrestaShop 1.7.1+
+    PHP 7.1+
+    
 # What this module does for you 
-
 Studies show that having a faster site increase the conversion rate considerably. There are numerous benefits to speed optimization, such as:
 
     Increased search engine ranking
@@ -15,12 +18,7 @@ Studies show that having a faster site increase the conversion rate considerably
 
 PrestaShop in its own is very secure. It's among the most secure content management systems available. When said, its good practice to add extra layers of security. I added all these layers as features so you can enable them without any coding knowledge to follow best practice. 
 
-# Requirements
-    PrestaShop 1.7.1+
-    PHP 7.1+
-
 # What your customers will like
-
 Nobody likes to wait. It makes us feel like we're not a company's top priority.
 
 Consumers have even less patience when shopping online. Every second it takes your website to load, your chance of losing a customer increases.
