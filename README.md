@@ -15,6 +15,10 @@ Studies show that having a faster site increase the conversion rate considerably
 
 PrestaShop in its own is very secure. It's among the most secure content management systems available. When said, its good practice to add extra layers of security. I added all these layers as features so you can enable them without any coding knowledge to follow best practice. 
 
+# Requirements
+    PrestaShop 1.7.1+
+    PHP 7.1+
+
 # What your customers will like
 
 Nobody likes to wait. It makes us feel like we're not a company's top priority.
