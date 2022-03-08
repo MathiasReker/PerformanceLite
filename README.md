@@ -41,8 +41,8 @@ As this is an all-in-one module, you do not need a bunch of performance modules 
 There is a live demo of the module to try. This is highly recommended as some features are better explained in the demo.
 If you have questions, do not hesitate to contact me.
 
-DEMO frontend: https://reker.dk/performancepro/
-DEMO backend: https://reker.dk/performancepro/admin-dev/
+    DEMO frontend: https://reker.dk/performancepro/
+    DEMO backend: https://reker.dk/performancepro/admin-dev/
 
 ## Download Performance Lite (free): https://github.com/MathiasReker/PerformanceLite/releases/latest
 
