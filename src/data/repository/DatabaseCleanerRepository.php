@@ -168,7 +168,6 @@ class DatabaseCleanerRepository extends Connection
             ['module_country', 'id_country', 'country', 'id_country'],
             ['module_country', 'id_module', 'module', 'id_module'],
             ['module_country', 'id_shop', 'shop', 'id_shop'],
-            ['module_currency', 'id_currency', 'currency', 'id_currency'],
             ['module_currency', 'id_module', 'module', 'id_module'],
             ['module_currency', 'id_shop', 'shop', 'id_shop'],
             ['module_group', 'id_group', 'group', 'id_group'],
